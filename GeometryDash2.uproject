@@ -1,0 +1,14 @@
+{"Version": "5.0",
+ "ProjectID": "B48D90B9-2F66-4D84-88B1-71B09126DA47",
+ "ProjectName": "Geometry Dash 2",
+ "Description": "An adventurous platforming game",
+ "Modules": [
+ {
+ "Name": "GeometryDash2",
+ "Type": "Runtime",
+ "LoadingPhase": "Default"
+ }
+ ],
+ "TargetPlatforms": ["Win64"],
+ "Epic": false
+}
